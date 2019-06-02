@@ -31,7 +31,9 @@ The enterprise registration data including 10 items: the name of enterprise,unif
 
 The dataset represents in three different types: CSV,Excel and JSON,which are located at Enterprise-Registration-Data/csv,Enterprise-Registration-Data/xls and Enterprise-Registration-Data/json respectively.
 
-The order of 10 items in CSV and Excel is:name,code,registrationDay,character,legalRepresentative,capital,businessScope,province,city,address. And the record in the JSON file is represented as below:
+The order of 10 items in CSV and Excel are : 
+
+name,code,registrationDay,character,legalRepresentative,capital,businessScope,province,city,address. And the record in the JSON file is represented as below:
 
 ```json
 {
