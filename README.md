@@ -25,9 +25,41 @@ JSON 的编码为 UTF-8，文件格式如下：
 ```
 最新数据会不定期进行更新。
 
+This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.
+
+The enterprise registration data including 10 items: the name of enterprise,uniform social credit code,registration date,character of economy,legal representative,registered capital,business scope,province,city and registration address.
+
+The dataset represents in three different types: CSV,Excel and JSON,which are located at Enterprise-Registration-Data/csv,Enterprise-Registration-Data/xls and Enterprise-Registration-Data/json respectively.
+
+The order of 10 items in CSV and Excel is:name,code,registrationDay,character,legalRepresentative,capital,businessScope,province,city,address. And the record in the JSON file is represented as below:
+
+```json
+{
+    "name":"the name of enterprise",
+    "code":"uniform social credit code",
+    "registrationDay":"registration date",
+    "character":"character of economy",
+    "legalRepresentative":"legal representative",
+    "capital":"registered capital",
+    "businessScope":"business scope",
+    "province":"province",
+    "city":"city",
+    "address":"registration address"
+}
+
+```
+
+The encoding of all those files are UTF-8.
+
+This repository will be updated from time to time.Give me a star or fork this repository if you like it.
+
 ### License
 
 本仓库数据集源自网络，本人不对数据的真实性负责，您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。
+
+The data of this repository is collected from the several open data web sites of Chinese government and this repository is released under [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
