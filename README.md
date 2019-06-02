@@ -58,9 +58,11 @@ This repository will be updated from time to time.Give me a star or fork this re
 ### Citation format:
 
 如果您需要在论文中引用本数据集，您可以使用下列引用格式进行引用：
+
 刘文. 中国大陆企业工商注册信息数据集[EB/OL].https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland, 2019-06-01.
 
 If you want to use this dataset in you paper,you can use the flowing citation format:
+
 Wen Liu. Enterprise-Registration-Data-of-Chinese-Mainland[EB/OL].https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland, 2019-06-01.
 
 
