@@ -2,7 +2,7 @@
 
 中国大陆 31 个省份 1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型。
 
-数据以 CSV 、Excel 及 JSON 三种文件类型存储，相应文件分别保存在 [Enterprise-Registration-Data/csv](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/csv)、[Enterprise-Registration-Data/xls](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/xls)、[Enterprise-Registration-Data/json](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/json) 三个分支中。
+数据以 CSV 、Excel 及 JSON 三种文件类型存储，**相应文件分别保存在 [Enterprise-Registration-Data/csv](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/csv)、[Enterprise-Registration-Data/xls](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/xls)、[Enterprise-Registration-Data/json](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/json) 三个分支中**。
 
 其中 CSV 与 Excel 的格式为：企业名称、统一社会信用代码、注册日期、企业类型、法人代表、注册资金、经营范围、所在省份、地区、注册地址，编码为 UTF-8
 
