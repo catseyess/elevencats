@@ -2,7 +2,7 @@
 
 中国大陆 31 个省份 1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型。
 
-数据以 CSV 、Excel 及 JSON 三种文件类型存储，相应文件分别保存在 Enterprise-Registration-Data/csv、Enterprise-Registration-Data/xls、Enterprise-Registration-Data/json 。
+数据以 CSV 、Excel 及 JSON 三种文件类型存储，相应文件分别保存在 [Enterprise-Registration-Data/csv](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/csv)、[Enterprise-Registration-Data/xls](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/xls)、[Enterprise-Registration-Data/json](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/json) 三个分支中。
 
 其中 CSV 与 Excel 的格式为：企业名称、统一社会信用代码、注册日期、企业类型、法人代表、注册资金、经营范围、所在省份、地区、注册地址，编码为 UTF-8
 
@@ -29,7 +29,7 @@ This repository is an dataset of over 10,000,000 enterprise registration data of
 
 The enterprise registration data including 10 items: the name of enterprise,uniform social credit code,registration date,character of economy,legal representative,registered capital,business scope,province,city and registration address.
 
-The dataset represents in three different types: CSV,Excel and JSON,which are located at Enterprise-Registration-Data/csv,Enterprise-Registration-Data/xls and Enterprise-Registration-Data/json respectively.
+The dataset represents in three different types: CSV,Excel and JSON,which are located at [Enterprise-Registration-Data/csv](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/csv)、[Enterprise-Registration-Data/xls](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/xls)、[Enterprise-Registration-Data/json](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/json) .
 
 The order of 10 items in CSV and Excel are : 
 
